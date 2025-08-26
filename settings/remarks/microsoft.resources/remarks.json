@@ -7,6 +7,13 @@
       "Description": "A basic example of deploying a resource group."
     }
   ],
+  "TerraformSamples": [
+    {
+      "ResourceType": "microsoft.resources/resourceGroups",
+      "Path": "samples/resourceGroups/main.tf",
+      "Description": "A basic example of deploying a resource group."
+    }
+  ],
   "ResourceRemarks": [
     {
       "ResourceTypes": [
