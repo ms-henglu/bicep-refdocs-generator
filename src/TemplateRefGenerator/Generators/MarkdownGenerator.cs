@@ -656,7 +656,7 @@ For **{discSample.DiscriminatorValue}**, use:
             sb.Append($"""
 {sample.Description}
 
-```tf
+```terraform
 {remarksLoader.GetCodeSample(resource.Provider, sample)}
 ```
 
