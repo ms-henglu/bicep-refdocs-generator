@@ -52,7 +52,7 @@
     },
     {
       "ResourceType": "Microsoft.Resources/resourceGroups",
-      "Path": "samples/resourcegroups/main.tf",
+      "Path": "samples/resourceGroups/main.tf",
       "Description": "A basic example of deploying Resource Group."
     }
   ]
