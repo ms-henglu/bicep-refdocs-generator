@@ -4,102 +4,102 @@
     {
       "ResourceType": "Microsoft.AppPlatform/Spring",
       "Path": "samples/spring/main.tf",
-      "Description": "A basic example of deploying Azure Spring Cloud Service.\n\nNote: Azure Spring Apps (Microsoft.AppPlatform/Spring) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Azure Spring Cloud Service."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/DevToolPortals",
       "Path": "samples/spring/devtoolportals/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Dev Tool Portal.\n\nNote: Azure Spring Apps Dev Tool Portals (Microsoft.AppPlatform/Spring/DevToolPortals) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Dev Tool Portal."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/apiPortals",
       "Path": "samples/spring/apiportals/main.tf",
-      "Description": "A basic example of deploying Spring Cloud API Portal.\n\nNote: Azure Spring Apps API Portals (Microsoft.AppPlatform/Spring/apiPortals) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud API Portal."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/apiPortals/domains",
       "Path": "samples/spring/apiportals/domains/main.tf",
-      "Description": "A basic example of deploying Spring Cloud API Portal Domain.\n\nNote: Azure Spring Apps API Portal Domains (Microsoft.AppPlatform/Spring/apiPortals/domains) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud API Portal Domain."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/applicationAccelerators",
       "Path": "samples/spring/applicationaccelerators/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Accelerator.\n\nNote: Azure Spring Apps Application Accelerators (Microsoft.AppPlatform/Spring/applicationAccelerators) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Accelerator."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/applicationAccelerators/customizedAccelerators",
       "Path": "samples/spring/applicationaccelerators/customizedaccelerators/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Customized Accelerator.\n\nNote: Azure Spring Apps Customized Accelerators (Microsoft.AppPlatform/Spring/applicationAccelerators/customizedAccelerators) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Customized Accelerator."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/applicationLiveViews",
       "Path": "samples/spring/applicationliveviews/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Application Live View.\n\nNote: Azure Spring Apps Application Live Views (Microsoft.AppPlatform/Spring/applicationLiveViews) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Application Live View."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/apps",
       "Path": "samples/spring/apps/main.tf",
-      "Description": "A basic example of deploying an Azure Spring Cloud Application.\n\nNote: Azure Spring Apps Applications (Microsoft.AppPlatform/Spring/apps) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying an Azure Spring Cloud Application."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/apps/bindings",
       "Path": "samples/spring/apps/bindings/main.tf",
-      "Description": "A basic example of deploying Associates a Spring Cloud Application with a resource.\n\nNote: Azure Spring Apps Application Bindings (Microsoft.AppPlatform/Spring/apps/bindings) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Associates a Spring Cloud Application with a resource."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/apps/deployments",
       "Path": "samples/spring/apps/deployments/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Deployment.\n\nNote: Azure Spring Apps Application Deployments (Microsoft.AppPlatform/Spring/apps/deployments) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Deployment."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/buildServices",
       "Path": "samples/spring/buildservices/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Build Service.\n\nNote: Azure Spring Apps Build Services (Microsoft.AppPlatform/Spring/buildServices) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Build Service."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/buildServices/builders",
       "Path": "samples/spring/buildservices/builders/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Builder.\n\nNote: Azure Spring Apps Build Service Builders (Microsoft.AppPlatform/Spring/buildServices/builders) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Builder."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/buildServices/builders/buildpackBindings",
       "Path": "samples/spring/buildservices/builders/buildpackbindings/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Build Pack Binding.\n\nNote: Azure Spring Apps Buildpack Bindings (Microsoft.AppPlatform/Spring/buildServices/builders/buildpackBindings) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Build Pack Binding."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/configServers",
       "Path": "samples/spring/configservers/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Config Server.\n\nNote: Azure Spring Apps Config Servers (Microsoft.AppPlatform/Spring/configServers) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Config Server."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/configurationServices",
       "Path": "samples/spring/configurationservices/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Configuration Service.\n\nNote: Azure Spring Apps Configuration Services (Microsoft.AppPlatform/Spring/configurationServices) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Configuration Service."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/gateways",
       "Path": "samples/spring/gateways/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Gateway.\n\nNote: Azure Spring Apps Gateways (Microsoft.AppPlatform/Spring/gateways) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Gateway."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/gateways/domains",
       "Path": "samples/spring/gateways/domains/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Gateway Custom Domain.\n\nNote: Azure Spring Apps Gateway Domains (Microsoft.AppPlatform/Spring/gateways/domains) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Gateway Custom Domain."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/gateways/routeConfigs",
       "Path": "samples/spring/gateways/routeconfigs/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Gateway Route Config.\n\nNote: Azure Spring Apps Gateway Route Configs (Microsoft.AppPlatform/Spring/gateways/routeConfigs) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Gateway Route Config."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/monitoringSettings",
       "Path": "samples/spring/monitoringsettings/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Monitoring Settings.\n\nNote: Azure Spring Apps Monitoring Settings (Microsoft.AppPlatform/Spring/monitoringSettings) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Monitoring Settings."
     },
     {
       "ResourceType": "Microsoft.AppPlatform/Spring/storages",
       "Path": "samples/spring/storages/main.tf",
-      "Description": "A basic example of deploying Spring Cloud Storage.\n\nNote: Azure Spring Apps Storages (Microsoft.AppPlatform/Spring/storages) is now deprecated and will be retired on 2028-05-31. See https://aka.ms/asaretirement for more information."
+      "Description": "A basic example of deploying Spring Cloud Storage."
     }
   ]
 }
